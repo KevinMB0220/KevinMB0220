@@ -41,15 +41,44 @@
 
 ---
 
-### 📊 GitHub Overview
+### 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kevinbrenes&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevinbrenes&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kevinbrenes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kevinbrenes&theme=tokyo-night&hide_border=true&radius=8" width="100%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevinbrenes&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+</div>
+
+---
+
+### 🔥 Contribution Streak
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kevinbrenes&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
+
+---
+
+### 📈 Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kevinbrenes&theme=tokyo-night&hide_border=true&custom_title=Contribution%20Graph" alt="Contribution Graph" />
+</div>
+
+---
+
+### 💻 Yearly Contributions
+
+<div align="center">
+
+| Year | Contributions | Streak | Top Language |
+|:----:|:-------------:|:------:|:------------:|
+| 2025 | ![2025](https://img.shields.io/badge/dynamic/json?color=brightgreen&label=2025&query=$.years[0].total&url=https://github-contributions-api.deno.dev/kevinbrenes.json&style=flat-square) | 🔥 Active | TypeScript |
+| 2024 | ![2024](https://img.shields.io/badge/dynamic/json?color=blue&label=2024&query=$.years[1].total&url=https://github-contributions-api.deno.dev/kevinbrenes.json&style=flat-square) | ⚡ Building | Rust |
+| 2023 | ![2023](https://img.shields.io/badge/dynamic/json?color=yellow&label=2023&query=$.years[2].total&url=https://github-contributions-api.deno.dev/kevinbrenes.json&style=flat-square) | 🚀 Growing | Python |
+
 </div>
 
 ---
@@ -64,35 +93,47 @@
 
 ### 🚀 Featured Projects
 
-| Project | Description | Tech |
-|----------|--------------|------|
-| [**Galaxy API**](https://github.com/kevinbrenes/galaxy) | Unifying Stellar DeFi into one powerful developer API layer. | TypeScript • Soroban • Express |
-| [**Offer-Hub**](https://github.com/kevinbrenes/offer-hub) | Freelance hub empowering Web3 builders & open-source contributors. | Next.js • Tailwind • Node.js |
-| [**Citizen of Arcanis**](https://github.com/kevinbrenes/citizen-of-arcanis) | Persistent post-apocalyptic RPG shaping a living onchain world. | Cairo • Dojo • Rust |
-| [**TreeByte**](https://github.com/kevinbrenes/treebyte) | Eco-travel marketplace with carbon credit transparency. | Next.js • Stellar SDK • Tailwind |
+| Project | Description | Tech | Status |
+|----------|--------------|------|--------|
+| [**Galaxy API**](https://github.com/kevinbrenes/galaxy) | Unifying Stellar DeFi into one powerful developer API layer. | TypeScript • Soroban • Express | 🚧 In Progress |
+| [**Offer-Hub**](https://github.com/kevinbrenes/offer-hub) | Freelance hub empowering Web3 builders & open-source contributors. | Next.js • Tailwind • Node.js | 🚧 In Progress |
+| [**Citizen of Arcanis**](https://github.com/kevinbrenes/citizen-of-arcanis) | Persistent post-apocalyptic RPG shaping a living onchain world. | Cairo • Dojo • Rust | 🚧 In Progress |
+| [**TreeByte**](https://github.com/kevinbrenes/treebyte) | Eco-travel marketplace with carbon credit transparency. | Next.js • Stellar SDK • Tailwind | 🌱 Early Stage |
+
+---
+
+### 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=kevinbrenes&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies" />
+</div>
 
 ---
 
 ### 🧘‍♂️ Beyond Code
 
-> “Discipline is freedom.”
+> "Discipline is freedom."
 
 I believe in **building with purpose**, not hype — driven by **curiosity, consistency, and creation**.  
-Outside of code, I’m usually **training**, **hiking**, or exploring **game design** and **systems thinking**.
+Outside of code, I'm usually **training**, **hiking**, or exploring **game design** and **systems thinking**.
 
 ---
 
 <div align="center">
-  <i>Let’s build something that lasts 🌍</i>
+  <i>Let's build something that lasts 🌍</i>
 </div>
 
 <br>
 
 <p align="center">
-  <a href="mailto:YOUR_EMAIL@domain.com"><img src="https://img.shields.io/badge/Email-Me-blue?style=for-the-badge"></a>
+  <a href="mailto:kevinbrenes@example.com"><img src="https://img.shields.io/badge/Email-Me-blue?style=for-the-badge"></a>
   <a href="https://github.com/kevinbrenes"><img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github"></a>
   <a href="https://x.com/KevinMembr95392"><img src="https://img.shields.io/badge/X-Follow-1DA1F2?style=for-the-badge&logo=x"></a>
   <a href="https://t.me/kevinzx213"><img src="https://img.shields.io/badge/Telegram-Chat-2CA5E0?style=for-the-badge&logo=telegram"></a>
 </p>
 
 ---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=kevinbrenes&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
+</div>
