@@ -43,43 +43,40 @@
 
 ### 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kevinbrenes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevinbrenes&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kevinbrenes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevinbrenes&layout=compact&theme=tokyonight&langs_count=8" alt="Top Languages" height="170" />
+</p>
 
 ---
 
 ### 🔥 Contribution Streak
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kevinbrenes&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=kevinbrenes&theme=tokyonight" alt="GitHub Streak" />
+</p>
 
 ---
 
-### 📈 Contribution Graph
+### 📈 Contribution Activity
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kevinbrenes&theme=tokyo-night&hide_border=true&custom_title=Contribution%20Graph" alt="Contribution Graph" />
-</div>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kevinbrenes&theme=tokyonight" alt="Contribution Graph" />
+</p>
 
 ---
 
-### 💻 Yearly Contributions
+### 💻 Coding Activity Summary
 
-<div align="center">
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kevinbrenes&theme=tokyonight" alt="Repos per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kevinbrenes&theme=tokyonight" alt="Most Commit Language" />
+</p>
 
-| Year | Contributions | Streak | Top Language |
-|:----:|:-------------:|:------:|:------------:|
-| 2025 | ![2025](https://img.shields.io/badge/dynamic/json?color=brightgreen&label=2025&query=$.years[0].total&url=https://github-contributions-api.deno.dev/kevinbrenes.json&style=flat-square) | 🔥 Active | TypeScript |
-| 2024 | ![2024](https://img.shields.io/badge/dynamic/json?color=blue&label=2024&query=$.years[1].total&url=https://github-contributions-api.deno.dev/kevinbrenes.json&style=flat-square) | ⚡ Building | Rust |
-| 2023 | ![2023](https://img.shields.io/badge/dynamic/json?color=yellow&label=2023&query=$.years[2].total&url=https://github-contributions-api.deno.dev/kevinbrenes.json&style=flat-square) | 🚀 Growing | Python |
-
-</div>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kevinbrenes&theme=tokyonight" alt="Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kevinbrenes&theme=tokyonight&utcOffset=8" alt="Productive Time" />
+</p>
 
 ---
 
@@ -104,9 +101,9 @@
 
 ### 🏆 GitHub Trophies
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kevinbrenes&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies" />
-</div>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=kevinbrenes&theme=tokyonight&no-frame=true&no-bg=false&row=1&column=7" alt="GitHub Trophies" />
+</p>
 
 ---
 
