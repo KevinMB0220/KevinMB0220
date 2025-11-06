@@ -53,7 +53,12 @@
 ### 🔥 Contribution Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=KevinMB0220&theme=tokyonight" alt="GitHub Streak" />
+  <!-- Primary (más estable) -->
+  <picture>
+    <source srcset="https://github-readme-streak-stats.herokuapp.com/?user=KevinMB0220&theme=tokyonight" type="image/svg+xml">
+    <!-- Fallback (segundo servidor) -->
+    <img src="https://streak-stats.demolab.com?user=KevinMB0220&theme=tokyonight" alt="GitHub Streak" />
+  </picture>
 </p>
 
 ---
