@@ -27,7 +27,7 @@
 ### 🧩 Tech Arsenal
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=rust,solidity,typescript,react,nextjs,tailwind,python,java,linux,docker,git&theme=light" />
+  <img src="https://skillicons.dev/icons?i=rust,solidity,ts,react,nextjs,tailwind,python,java,linux,docker,git&theme=light" />
 </div>
 
 ---
