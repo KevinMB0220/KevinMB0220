@@ -41,12 +41,6 @@
 
 ---
 
-### 📊 GitHub Stats
-<img src="https://mi-readme-stats.vercel.app/api?username=KevinMB0220&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-
-
----
-
 ### 🔥 Contribution Streak
 
 <p align="center">
