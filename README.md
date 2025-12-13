@@ -97,8 +97,12 @@
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=KevinMB0220&theme=tokyonight&no-frame=true&no-bg=false&row=1&column=7" alt="GitHub Trophies" />
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=KevinMB0220&theme=tokyonight&row=1&column=6"
+    alt="GitHub Trophies"
+  />
 </p>
+
 
 ---
 
