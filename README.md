@@ -42,7 +42,8 @@
 ---
 
 ### 🔥 Contribution Streak
-![GitHub Streak](https://streak-stats.demolab.com?user=KevinMB0220&theme=tokyonight)
+
+![Stats](https://github-readme-stats.vercel.app/api?username=KevinMB0220&show_icons=true&theme=tokyonight)
 
 
 ---
