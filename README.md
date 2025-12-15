@@ -45,10 +45,11 @@
 
 <p align="center">
   <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=KevinMB0220&theme=tokyonight"
-    alt="GitHub Streak"
+    src="https://github-readme-streak-stats.herokuapp.com?user=KevinMB0220&theme=tokyonight"
+    alt="GitHub contribution streak"
   />
 </p>
+
 
 
 ---
