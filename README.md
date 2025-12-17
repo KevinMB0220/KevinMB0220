@@ -94,18 +94,6 @@
 
 ---
 
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=KevinMB0220&theme=tokyonight&row=1&column=6"
-    alt="GitHub Trophies"
-  />
-</p>
-
-
----
-
 ### 🧘‍♂️ Beyond Code
 
 > "Discipline is freedom."
