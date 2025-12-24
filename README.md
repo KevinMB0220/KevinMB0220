@@ -44,9 +44,8 @@
 ### 🔥 Contribution Streak
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=KevinMB0220&theme=tokyonight&mode=stats" alt="Current GitHub streak days" />
+  <img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=KevinMB0220&theme=tokyonight" alt="GitHub Streak Stats" />
 </div>
-
 
 ---
 
