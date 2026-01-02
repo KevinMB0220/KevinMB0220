@@ -79,17 +79,6 @@
 
 ---
 
-### 🚀 Featured Projects
-
-| Project | Description | Tech | Status |
-|----------|--------------|------|--------|
-| [**Galaxy API**](https://github.com/KevinMB0220/galaxy) | Unifying Stellar DeFi into one powerful developer API layer. | TypeScript • Soroban • Express | 🚧 In Progress |
-| [**Offer-Hub**](https://github.com/KevinMB0220/offer-hub) | Freelance hub empowering Web3 builders & open-source contributors. | Next.js • Tailwind • Node.js | 🚧 In Progress |
-| [**Citizen of Arcanis**](https://github.com/KevinMB0220/citizen-of-arcanis) | Persistent post-apocalyptic RPG shaping a living onchain world. | Cairo • Dojo • Rust | 🚧 In Progress |
-| [**TreeByte**](https://github.com/KevinMB0220/treebyte) | Eco-travel marketplace with carbon credit transparency. | Next.js • Stellar SDK • Tailwind | 🌱 Early Stage |
-
----
-
 ### 🧘‍♂️ Beyond Code
 
 > "Discipline is freedom."
