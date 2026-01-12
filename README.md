@@ -50,32 +50,12 @@
 
 ---
 
-### 📈 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KevinMB0220&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KevinMB0220&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
----
-
 ### 💻 Coding Activity Summary
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KevinMB0220&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
+
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KevinMB0220&theme=tokyonight" alt="Repos per Language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KevinMB0220&theme=tokyonight" alt="Most Commit Language" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KevinMB0220&theme=tokyonight" alt="Stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=KevinMB0220&theme=tokyonight&utcOffset=8" alt="Productive Time" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KevinMB0220&theme=tokyo-night" alt="Activity Graph" />
 </p>
 
 ---
