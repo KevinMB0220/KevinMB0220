@@ -19,8 +19,6 @@
 🧱 Currently building:
 - **[Galaxy API](https://github.com/KevinMB0220/galaxy)** → Unifying the **entire Stellar DeFi** ecosystem into a single developer API layer  
 - **[Offer-Hub](https://github.com/KevinMB0220/offer-hub)** → A **freelance hub for Web3 builders** and open-source contributors  
-- **[Citizen of Arcanis](https://github.com/KevinMB0220/citizen-of-arcanis)** → Persistent post-apocalyptic RPG on Starknet where every action leaves a mark  
-🌿 Co-creating **[TreeByte](https://github.com/KevinMB0220/treebyte)**, merging **carbon credits** and **eco-tourism** through blockchain transparency  
 ⚙️ Passionate about **clean architectures**, **atomic commits**, and **open collaboration**
 
 ---
