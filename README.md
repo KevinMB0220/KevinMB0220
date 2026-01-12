@@ -53,12 +53,20 @@
 ### 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KevinMB0220&theme=tokyonight" alt="Contribution Graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=KevinMB0220&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KevinMB0220&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 ---
 
 ### 💻 Coding Activity Summary
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KevinMB0220&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KevinMB0220&theme=tokyonight" alt="Repos per Language" />
