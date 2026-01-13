@@ -89,7 +89,6 @@ Outside of code, I'm usually **training**, **hiking**, or exploring **game desig
 </p>
 
 ---
-
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=KevinMB0220&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
 </div>
