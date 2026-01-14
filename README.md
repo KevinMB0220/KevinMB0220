@@ -80,7 +80,6 @@ Outside of code, I'm usually **training**, **hiking**, or exploring **game desig
 </div>
 
 <br>
-
 <p align="center">
   <a href="mailto:kevinbrenes@example.com"><img src="https://img.shields.io/badge/Email-Me-blue?style=for-the-badge"></a>
   <a href="https://github.com/KevinMB0220"><img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github"></a>
