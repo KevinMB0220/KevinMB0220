@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1200&color=58A6FF&center=true&vCenter=true&width=620&lines=Hey%2C+I'm+Kevin+Brenes;Co-Founder+%26+Fullstack+Engineer;Building+Writz+%7C+Offer-Hub+%7C+Galaxy" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1200&color=FF8C1A&center=true&vCenter=true&width=620&lines=Hey%2C+I'm+Kevin+Brenes;Co-Founder+%26+Fullstack+Engineer;Building+Writz+%7C+Offer-Hub+%7C+Galaxy" alt="Typing SVG" />
 
 **Co-Founder & Engineer — building privacy-first DeFi and open marketplaces on Stellar.**
 
@@ -33,7 +33,7 @@ Trustless **Bitcoin lending** on Stellar. Lock native BTC from your own wallet, 
 No bridge · No custodian · No wrapped tokens
 
 [![Repo](https://img.shields.io/badge/Code-WritzProtocol%2Fwritz-181717?logo=github)](https://github.com/WritzProtocol/writz)
-[![Live](https://img.shields.io/badge/Live-writz.xyz-58A6FF)](https://writz.xyz)
+[![Live](https://img.shields.io/badge/Live-writz.xyz-FF8C1A)](https://writz.xyz)
 
 </td>
 <td width="33%" valign="top">
@@ -47,7 +47,7 @@ A **freelance marketplace orchestrator** connecting professionals and clients wo
 
 [![Repo](https://img.shields.io/badge/Code-OFFER--HUB%2Fmonorepo-181717?logo=github)](https://github.com/OFFER-HUB/offer-hub-monorepo)
 [![Stars](https://img.shields.io/github/stars/OFFER-HUB/offer-hub-monorepo?style=flat&color=yellow)](https://github.com/OFFER-HUB/offer-hub-monorepo)
-[![Live](https://img.shields.io/badge/Live-offer--hub.tech-58A6FF)](https://www.offer-hub.tech/)
+[![Live](https://img.shields.io/badge/Live-offer--hub.tech-FF8C1A)](https://www.offer-hub.tech/)
 
 </td>
 <td width="33%" valign="top">
@@ -96,25 +96,33 @@ The **abstraction layer that simplifies Stellar**. Plug DeFi services and wallet
 
 ---
 
+## 🎮 Contribution XP Board
+
+<div align="center">
+
+<img src="assets/xp-grid.svg" width="100%" alt="Contribution XP board — the grid fills week by week and the XP bar levels up" />
+
+<sub>Rebuilt every 6 hours from the live contribution calendar · <a href="scripts/generate-xp-grid.mjs">generator</a> · <a href=".github/workflows/xp-grid.yml">workflow</a></sub>
+
+</div>
+
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KevinMB0220&theme=tokyonight" alt="Profile Details" />
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KevinMB0220&theme=gruvbox" alt="Profile Details" />
 
-<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KevinMB0220&theme=tokyonight" alt="Repos per Language" />
-<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KevinMB0220&theme=tokyonight" alt="Most Commit Language" />
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KevinMB0220&theme=gruvbox" alt="Repos per Language" />
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KevinMB0220&theme=gruvbox" alt="Most Commit Language" />
 
-<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KevinMB0220&theme=tokyonight" alt="Stats" />
-<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=KevinMB0220&theme=tokyonight&utcOffset=-6" alt="Productive Time" />
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KevinMB0220&theme=gruvbox" alt="Stats" />
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=KevinMB0220&theme=gruvbox&utcOffset=-6" alt="Productive Time" />
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=KevinMB0220&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
-
-<br/><br/>
-
-<img src="https://ghchart.rshah.org/58a6ff/KevinMB0220" width="100%" alt="Contribution Chart" />
+<img src="https://streak-stats.demolab.com?user=KevinMB0220&background=0B0805&border=2A1A10&stroke=2A1A10&ring=FF8C1A&fire=FF8C1A&currStreakLabel=FF8C1A&sideLabels=8A7565&currStreakNum=F5E6D8&sideNums=F5E6D8&dates=8A7565&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
@@ -148,6 +156,6 @@ Off the keyboard you'll find me **training**, **hiking**, or thinking about **ga
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=KevinMB0220&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=KevinMB0220&color=FF8C1A&style=flat-square&label=Profile+Views" alt="Profile Views" />
 
 </div>
