@@ -1,97 +1,153 @@
-<!-- HEADER -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=550&lines=Hey%2C+I'm+KevinMB0220!;Web3+Builder+%7C+Fullstack+Engineer+%7C+Dojo+Dev;Building+Galaxy+%26+Offer-Hub+%F0%9F%9A%80" alt="Typing SVG" />
-</div>
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1200&color=58A6FF&center=true&vCenter=true&width=620&lines=Hey%2C+I'm+Kevin+Brenes;Co-Founder+%26+Fullstack+Engineer;Building+Writz+%7C+Offer-Hub+%7C+Galaxy" alt="Typing SVG" />
 
-<p align="center">
-  <a href="https://github.com/KevinMB0220"><img src="https://img.shields.io/github/followers/KevinMB0220?label=Followers&style=social" alt="GitHub Followers"></a>
-  <a href="https://x.com/KevinMembr95392"><img src="https://img.shields.io/twitter/follow/KevinMembr95392?style=social" alt="Twitter"></a>
-  <a href="https://www.linkedin.com/in/kevin-brenes-2a9750261"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin"></a>
-  <a href="https://t.me/kevinzx213"><img src="https://img.shields.io/badge/Telegram-@kevinzx213-2CA5E0?logo=telegram&logoColor=white"></a>
+**Co-Founder & Engineer — building privacy-first DeFi and open marketplaces on Stellar.**
+
+<p>
+  <a href="https://www.linkedin.com/in/kevin-brenes-2a9750261"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://x.com/KevinMembr95392"><img src="https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"></a>
+  <a href="https://t.me/kevinzx213"><img src="https://img.shields.io/badge/Telegram-Chat-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
+  <a href="https://github.com/KevinMB0220"><img src="https://img.shields.io/github/followers/KevinMB0220?style=for-the-badge&logo=github&label=Follow&color=181717" alt="Followers"></a>
 </p>
 
----
-
-
-
-### 🧠 About Me
-
-💡 Passionate **builder and founder** working at the intersection of **onchain gaming**, **DeFi**, and **eco-innovation**.  
-🧱 Currently building:
-- **[Galaxy API](https://github.com/KevinMB0220/galaxy)** → Unifying the **entire Stellar DeFi** ecosystem into a single developer API layer  
-- **[Offer-Hub](https://github.com/KevinMB0220/offer-hub)** → A **freelance hub for Web3 builders** and open-source contributors  
-⚙️ Passionate about **clean architectures**, **atomic commits**, and **open collaboration**
-
----
-
-### 🧩 Tech Arsenal
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=rust,solidity,ts,react,nextjs,tailwind,python,java,linux,docker,git&theme=light" />
 </div>
 
 ---
 
+## 🚀 What I'm Building
 
-### 🕹️ Initializing System...
+I co-found and ship products at the intersection of **Bitcoin, DeFi, privacy and open marketplaces** — all on **Stellar / Soroban**.
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### ₿ Writz Protocol
+**Co-Founder**
+
+Trustless **Bitcoin lending** on Stellar. Lock native BTC from your own wallet, borrow USDC, and keep every position private.
+
+`Bitcoin Script` `SPV on Soroban` `Groth16 ZK`
+
+No bridge · No custodian · No wrapped tokens
+
+[![Repo](https://img.shields.io/badge/Code-WritzProtocol%2Fwritz-181717?logo=github)](https://github.com/WritzProtocol/writz)
+[![Live](https://img.shields.io/badge/Live-writz.xyz-58A6FF)](https://writz.xyz)
+
+</td>
+<td width="33%" valign="top">
+
+### 🤝 Offer-Hub
+**Co-Founder**
+
+A **freelance marketplace orchestrator** connecting professionals and clients worldwide, with on-chain escrow and Stellar-native payments.
+
+`NestJS` `Prisma` `Next.js` `Stellar`
+
+[![Repo](https://img.shields.io/badge/Code-OFFER--HUB%2Fmonorepo-181717?logo=github)](https://github.com/OFFER-HUB/offer-hub-monorepo)
+[![Stars](https://img.shields.io/github/stars/OFFER-HUB/offer-hub-monorepo?style=flat&color=yellow)](https://github.com/OFFER-HUB/offer-hub-monorepo)
+[![Live](https://img.shields.io/badge/Live-offer--hub.tech-58A6FF)](https://www.offer-hub.tech/)
+
+</td>
+<td width="33%" valign="top">
+
+### 🌌 Galaxy DevKit
+**Co-Founder**
+
+The **abstraction layer that simplifies Stellar**. Plug DeFi services and wallets into any app through clean APIs — no blockchain complexity.
+
+`TypeScript` `SDK` `DeFi APIs`
+
+[![Repo](https://img.shields.io/badge/Code-Galaxy--KJ%2FDevKit-181717?logo=github)](https://github.com/Galaxy-KJ/Galaxy-DevKit)
+[![Stars](https://img.shields.io/github/stars/Galaxy-KJ/Galaxy-DevKit?style=flat&color=yellow)](https://github.com/Galaxy-KJ/Galaxy-DevKit)
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🧠 About Me
+
+- 🏗️ **Co-Founder** of [Writz Protocol](https://github.com/WritzProtocol), [Offer-Hub](https://github.com/OFFER-HUB) and [Galaxy](https://github.com/Galaxy-KJ)
+- 🔐 Focused on **zero-knowledge privacy**, **Bitcoin ↔ Stellar** interoperability and **smart contract escrow**
+- 🛠️ Smart contracts in **Rust / Soroban** and **Cairo**, product in **TypeScript**
+- ⚙️ Obsessed with **clean architecture**, **atomic commits** and **open collaboration**
+- 🌍 Building in public across the **Stellar ecosystem**
+
+---
+
+## 🧩 Tech Arsenal
 
 <div align="center">
-  <img src="https://media.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif" width="300" alt="Loading animation"/>
-  <p><i>Loading contributions... please insert more commits 💾</i></p>
+
+**Smart Contracts**
+
+<img src="https://skillicons.dev/icons?i=rust,solidity&theme=dark" />
+<img src="https://img.shields.io/badge/Soroban-000000?style=flat&logo=stellar&logoColor=white" height="48" />
+<img src="https://img.shields.io/badge/Cairo-EC796B?style=flat&logoColor=white" height="48" />
+
+**Product & Infrastructure**
+
+<img src="https://skillicons.dev/icons?i=ts,nodejs,nestjs,react,nextjs,tailwind,postgres,prisma,docker,linux,git,python&theme=dark" />
+
 </div>
 
 ---
 
-### 🔥 Contribution Streak
+## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=KevinMB0220&theme=tokyonight" alt="GitHub Streak Stats" />
+
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KevinMB0220&theme=tokyonight" alt="Profile Details" />
+
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KevinMB0220&theme=tokyonight" alt="Repos per Language" />
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KevinMB0220&theme=tokyonight" alt="Most Commit Language" />
+
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KevinMB0220&theme=tokyonight" alt="Stats" />
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=KevinMB0220&theme=tokyonight&utcOffset=-6" alt="Productive Time" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=KevinMB0220&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
+
+<br/><br/>
+
+<img src="https://ghchart.rshah.org/58a6ff/KevinMB0220" width="100%" alt="Contribution Chart" />
+
 </div>
 
 ---
 
-### 💻 Coding Activity Summary
+## 🧭 Current Focus
 
-
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KevinMB0220&theme=tokyo-night" alt="Activity Graph" />
-</p>
-
----
-
-### 🧭 Current Focus
-
-- 🌌 Expanding **Galaxy API** to connect Stellar-based DeFi protocols via unified endpoints  
-- ⚡ Building **full onchain gameplay** with Dojo + Cartridge for **Citizen of Arcanis**  
-- 🌱 Designing open ecosystems that **bridge technology and sustainability**
+- ₿ Bringing **Writz** from Soroban testnet to mainnet — native BTC collateral, ZK-private positions
+- 🌌 Growing **Galaxy DevKit** into the default integration layer for Stellar DeFi
+- 🤝 Scaling **Offer-Hub** as an open, escrow-backed marketplace for Web3 talent
+- 🔬 Deep work on **zero-knowledge proofs** and **cross-chain private payments**
 
 ---
 
-### 🧘‍♂️ Beyond Code
+## 🧘 Beyond Code
 
-> "Discipline is freedom."
+> **"Discipline is freedom."**
 
-I believe in **building with purpose**, not hype — driven by **curiosity, consistency, and creation**.  
-Outside of code, I'm usually **training**, **hiking**, or exploring **game design** and **systems thinking**.
+I build with purpose, not hype — driven by curiosity, consistency and creation.
+Off the keyboard you'll find me **training**, **hiking**, or thinking about **game design** and **systems**.
 
 ---
 
 <div align="center">
-  <i>Let's build something that lasts 🌍</i>
-</div>
 
-<br>
-<p align="center">
-  <a href="mailto:kevinbrenes@example.com"><img src="https://img.shields.io/badge/Email-Me-blue?style=for-the-badge"></a>
-  <a href="https://github.com/KevinMB0220"><img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github"></a>
-  <a href="https://x.com/KevinMembr95392"><img src="https://img.shields.io/badge/X-Follow-1DA1F2?style=for-the-badge&logo=x"></a>
-  <a href="https://t.me/kevinzx213"><img src="https://img.shields.io/badge/Telegram-Chat-2CA5E0?style=for-the-badge&logo=telegram"></a>
-</p>
+### Let's build something that lasts 🌍
 
+<a href="https://www.linkedin.com/in/kevin-brenes-2a9750261"><img src="https://img.shields.io/badge/LinkedIn-Let's_talk-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://t.me/kevinzx213"><img src="https://img.shields.io/badge/Telegram-@kevinzx213-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
+<a href="https://x.com/KevinMembr95392"><img src="https://img.shields.io/badge/X-@KevinMembr95392-000000?style=for-the-badge&logo=x&logoColor=white"></a>
 
----
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=KevinMB0220&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=KevinMB0220&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
+
 </div>
